@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stemarsch
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python and c#
 - 📫 How to reach me ...at this time not reachable ;)
 
 <!---
